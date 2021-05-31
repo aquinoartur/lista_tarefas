@@ -6,7 +6,7 @@
 Faça o download do arquivo APK do app e instale-o em seu smartphone.
 
 <p align="center">
-  <a href="https://drive.google.com/u/0/uc?id=11d2FCVQRFBkDxzqs0j-D7xr0rBKxPOho&export=download">Download Giphy App</a>
+  <a href="https://drive.google.com/u/0/uc?id=11d2FCVQRFBkDxzqs0j-D7xr0rBKxPOho&export=download">Download App</a>
 </p>
 
  <p align="center">
@@ -15,8 +15,8 @@ Faça o download do arquivo APK do app e instale-o em seu smartphone.
 
 
 ## Aprendizado
-* Dart `null safety`.
-* Consumo de API.
-* Formatação/interpretação de `json`.
-* Utilização de funções assíncronas.
-* Utilização de widgets dinâmicos.
+
+* Utilização do plugin `path_provider` para salvar e ler arquivos na memória interna do dispositivo.
+* Utilização de widgets como: *Dismissible*; *CheckboxListTile*; *SnackBar*; *RefreshIndicator*.
+* Ordenação de listas.
+* Utilização de `setState`.
